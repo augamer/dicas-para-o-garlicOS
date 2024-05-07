@@ -148,7 +148,7 @@ Para ativar uma overlay para um sistema (FC, GB, GBA, GBC, SFC), durante um jogo
 * "Core Options"
   * GB Colorization: Auto
   * Internal Palette: GB - DMG
-  * Interface Blending: Simple
+  * Interframe Blending: Simple
 * "B" para voltar.
 * "Resume" (a configuração será salva automaticamente)
 
